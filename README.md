@@ -3,6 +3,11 @@ type.js
 
 Javascript type/structs-with-methods system
 
+Requirements
+===========
+
+This module is intended for use with RequireJS or equivalent Javascript module loading system.
+
 Usage
 -----
 
