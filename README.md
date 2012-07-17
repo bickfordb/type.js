@@ -1,4 +1,5 @@
-= Type.js =
+type.js
+=======
 
 Javascript type/structs-with-methods system
 
@@ -34,7 +35,7 @@ define("mymodule", ["type"], function(type) {
   cb.press();
   cb.checked == true;
 
-  // Bind this for callbacks:
+  // Call cb.press() after 1000 ms
   window.timeout(1000, cb.selector("press"))
 })
 
