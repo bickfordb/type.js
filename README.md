@@ -1,6 +1,6 @@
 = Type.js =
 
-Simple Javascript type system
+Javascript type/structs-with-methods system
 
 Usage
 -----
@@ -39,4 +39,10 @@ define("mymodule", ["type"], function(type) {
 })
 
 ```
+
+Legal
+-----
+Copyright 2012 Brandon Bickford.
+Licensed Apache 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html)
+
 
